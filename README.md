@@ -1,0 +1,2 @@
+# offlineDownload
+通过NSURLSessionDataTask和NSOutputStream实现大文件的离线现在
